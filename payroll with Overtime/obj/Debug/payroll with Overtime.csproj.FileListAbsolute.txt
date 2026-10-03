@@ -1,0 +1,11 @@
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\bin\Debug\payroll with Overtime.exe.config
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\bin\Debug\payroll with Overtime.exe
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\bin\Debug\payroll with Overtime.pdb
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll with Overtime.csproj.AssemblyReference.cache
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll_with_Overtime.Form1.resources
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll with Overtime.csproj.GenerateResource.cache
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll with Overtime.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll with Overtime.exe
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll with Overtime.pdb
+C:\Users\Fatima Hussein\source\repos\payroll with Overtime\payroll with Overtime\obj\Debug\payroll with Overtime.exe.config
